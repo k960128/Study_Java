@@ -1,8 +1,8 @@
-package com.mystudy.oop2;
+package com.mystudy.oop02;
 
 public class Variable {
 
-    /*
+    /**
     *   成员变量和局部变量的区别：
     *       A：在类中的位置不变
     *           成员变量：类中，方法外
@@ -17,7 +17,8 @@ public class Variable {
     *           成员：有默认值
     *           局部：无默认值，需要先赋值
     *
-    * */
+    **/
+
 
     public int x;
 
@@ -26,5 +27,10 @@ public class Variable {
 
         System.out.println(x);
         System.out.println(y);
+    }
+
+
+    public static void main(String[] args) {
+        
     }
 }

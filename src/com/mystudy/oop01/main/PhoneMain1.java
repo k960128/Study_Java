@@ -2,6 +2,10 @@ package com.mystudy.oop01.main;
 
 import com.mystudy.oop01.pojo.Phone;
 
+import java.beans.Transient;
+import java.util.ArrayList;
+import java.util.List;
+
 public class PhoneMain1 {
 
     public static void main(String[] args) {
@@ -14,6 +18,8 @@ public class PhoneMain1 {
         phone1.sendMessage();
 
 
-
     }
+
+
+
 }

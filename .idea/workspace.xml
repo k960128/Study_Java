@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5de30c8-4e3e-40bf-85be-c16303a64f81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mystudy/thread01/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study_Java/com/mystudy/oop01/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Study_Java/com/mystudy/oop01/StudentMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mystudy/oop01/main/PhoneMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mystudy/oop01/main/PhoneMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mystudy/oop2/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mystudy/oop02/Variable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +42,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/Java/maven/apache-maven-3.6.3-bin" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Java/maven/apache-maven-3.6.3-bin" />
         <option name="userSettingsFile" value="D:\Java\maven\apache-maven-3.6.3-bin\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -50,17 +56,43 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main1">
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mystudy.thread01.Main1" />
+      <module name="Study_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mystudy.thread01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mystudy.oop01.main.PhoneMain1" />
+      <module name="Study_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mystudy.oop01.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mystudy.oop01.main.StudentMain" />
       <module name="Study_Java" />
@@ -74,23 +106,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mystudy.oop02.Variable" />
+      <module name="Study_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mystudy.oop02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.PhoneMain1" />
+        <item itemvalue="Application.Variable" />
         <item itemvalue="Application.StudentMain" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -103,18 +139,51 @@
       <option name="presentableId" value="Default" />
       <updated>1586951190962</updated>
       <workItem from="1586951192607" duration="1431000" />
-      <workItem from="1587116283964" duration="4208000" />
+      <workItem from="1587116283964" duration="4296000" />
+      <workItem from="1587469567651" duration="597000" />
+      <workItem from="1587525935683" duration="14000" />
+      <workItem from="1587543462738" duration="2198000" />
+      <workItem from="1587902211060" duration="381000" />
+      <workItem from="1587902626617" duration="464000" />
+      <workItem from="1591001070256" duration="134000" />
+      <workItem from="1591001983769" duration="82000" />
+      <workItem from="1591003046325" duration="115000" />
+      <workItem from="1591003819330" duration="594000" />
+      <workItem from="1591066556769" duration="3602000" />
+      <workItem from="1591350390005" duration="26000" />
+      <workItem from="1591689428807" duration="1797000" />
+      <workItem from="1591702113686" duration="1625000" />
     </task>
+    <task id="LOCAL-00001" summary="2020年4月17日20:03:57">
+      <created>1587125041664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587125041664</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020年4月17日20:03:57" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年4月17日20:03:57" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="362" y="54" key="#Plugins" timestamp="1591003082229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="54" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1591003082229" />
     <state x="445" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1586952371390">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="445" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1586952371390" />
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1587125040924">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1587125040924" />
     <state x="420" y="124" key="FileChooserDialogImpl" timestamp="1587124958317">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -127,29 +196,33 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="414" y="88" key="Github.UntrackedFilesDialog/0.0.1280.760@0.0.1280.760" timestamp="1587124997613" />
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1586952626745">
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1591703750312">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1586952626745" />
-    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1586952626745">
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591703750312" />
+    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1591703750312">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1586952626745" />
-    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1586952626745">
+    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591703750312" />
+    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1591703750312">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1586952626745" />
-    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1586952626745">
+    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591703750312" />
+    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1591703750312">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1586952626745" />
-    <state x="195" y="29" key="SettingsEditor" timestamp="1587123005080">
+    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591703750312" />
+    <state x="195" y="29" key="SettingsEditor" timestamp="1591702916961">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="195" y="29" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1587123005080" />
-    <state x="332" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1587116597861">
+    <state x="195" y="29" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591702916961" />
+    <state x="232" y="116" key="Vcs.Push.Dialog.v2" timestamp="1587125054075">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="332" y="207" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1587116597861" />
+    <state x="232" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1587125054075" />
+    <state x="332" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1587902627713">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="332" y="207" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1587902627713" />
   </component>
 </project>
